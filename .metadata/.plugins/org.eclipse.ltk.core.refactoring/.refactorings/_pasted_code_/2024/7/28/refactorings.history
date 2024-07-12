@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Book.java&apos; to &apos;MVC_Thymeleaf_Demo2/src/main/java/com.example.FirstPro&apos;&#x0D;&#x0A;- Original project: &apos;_pasted_code_&apos;&#x0D;&#x0A;- Destination element: &apos;MVC_Thymeleaf_Demo2/src/main/java/com.example.FirstPro&apos;&#x0D;&#x0A;- Original element: &apos;Book.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=MVC_Thymeleaf_Demo2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.FirstPro" element1="/src&lt;{Book.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1720767095906" units="1" version="1.0"/>
+</session>
