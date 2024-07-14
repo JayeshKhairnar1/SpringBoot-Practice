@@ -1,1 +1,2 @@
-/.metadata/
+# Ignore the .metadata folder
+.metadata/
