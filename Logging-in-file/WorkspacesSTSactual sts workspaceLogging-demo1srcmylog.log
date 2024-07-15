@@ -1,0 +1,4 @@
+2024-07-15 10:10:10 ERROR HelloExample2:18 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at mypack.HelloExample2.divide(HelloExample2.java:26)
+	at mypack.HelloExample2.main(HelloExample2.java:14)

@@ -1,0 +1,6 @@
+2024-07-15 09:53:31 WARN  HelloExample:26 - This is warn : Master
+2024-07-15 09:53:31 ERROR HelloExample:27 - This is error : Master
+2024-07-15 09:53:31 FATAL HelloExample:28 - This is fatal : Master
+2024-07-15 09:53:50 WARN  HelloExample:26 - This is warn : Master
+2024-07-15 09:53:50 ERROR HelloExample:27 - This is error : Master
+2024-07-15 09:53:50 FATAL HelloExample:28 - This is fatal : Master

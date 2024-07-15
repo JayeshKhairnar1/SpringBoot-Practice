@@ -1,0 +1,24 @@
+2024-07-15 09:59:56 WARN  HelloExample:26 - This is warn : Master
+2024-07-15 09:59:56 ERROR HelloExample:27 - This is error : Master
+2024-07-15 09:59:56 FATAL HelloExample:28 - This is fatal : Master
+2024-07-15 10:01:22 DEBUG LogClass:12 - Debug Message!
+2024-07-15 10:01:22 INFO  LogClass:13 - Info Message!
+2024-07-15 10:01:22 WARN  LogClass:14 - Warn Message!
+2024-07-15 10:01:22 ERROR LogClass:15 - Error Message!
+2024-07-15 10:01:22 FATAL LogClass:16 - Fatal Message!
+2024-07-15 10:04:49 ERROR HelloExample2:18 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at mypack.HelloExample2.divide(HelloExample2.java:26)
+	at mypack.HelloExample2.main(HelloExample2.java:14)
+2024-07-15 10:05:28 ERROR HelloExample2:18 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at mypack.HelloExample2.divide(HelloExample2.java:26)
+	at mypack.HelloExample2.main(HelloExample2.java:14)
+2024-07-15 10:05:50 ERROR HelloExample2:18 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at mypack.HelloExample2.divide(HelloExample2.java:26)
+	at mypack.HelloExample2.main(HelloExample2.java:14)
+2024-07-15 10:06:13 ERROR HelloExample2:18 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at mypack.HelloExample2.divide(HelloExample2.java:26)
+	at mypack.HelloExample2.main(HelloExample2.java:14)
